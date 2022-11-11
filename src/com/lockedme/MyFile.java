@@ -1,4 +1,4 @@
- package com.lokedme;
+ package com.lockedme;
 
 public class MyFile {
 
